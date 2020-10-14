@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="themes" />
+    <array name="themes">
+        <item>default</item>
+        <item>reiko</item>
+        <item>johanna</item>
+        <item>anthony</item>
+    </array>
 </resources>
