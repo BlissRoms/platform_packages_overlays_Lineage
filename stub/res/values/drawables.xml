@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="theme_wallpaper_anthony">@drawable/Wallpaper_Ash</drawable>
+    <drawable name="theme_wallpaper_johanna">@drawable/Wallpaper_Collage</drawable>
+    <drawable name="theme_wallpaper_reiko">@drawable/Wallpaper_Crayon</drawable>
+    <drawable name="theme_wallpaper_thumbnail_default">@drawable/gradient_preview</drawable>
+</resources>
